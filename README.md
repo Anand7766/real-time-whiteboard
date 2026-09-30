@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 Collaborative Whiteboard
 
 A real-time multiplayer drawing app where multiple users can draw on a shared canvas simultaneously. Each room has a unique URL — share it and start drawing together instantly. No account required.
@@ -209,3 +210,6 @@ If the socket connection were created inside a component, a new connection would
 **Why draw locally before server confirms?**
 Waiting for the server to echo back the stroke before rendering it locally adds 50–200ms of visible lag per segment. Local-first rendering keeps your own drawing instant while still syncing to everyone else.
 
+=======
+# real-time-whiteboard
+>>>>>>> acf9db67911f661d6a3ae91bf9ecd6c4767f61fe
