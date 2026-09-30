@@ -3,7 +3,7 @@
 
 A real-time multiplayer drawing app where multiple users can draw on a shared canvas simultaneously. Each room has a unique URL — share it and start drawing together instantly. No account required.
 
-**[Live Demo →](https://collaborative-whiteboard-liard-pi.vercel.app/)** &nbsp;|&nbsp; **[Backend API →](https://whiteboard-server-329x.onrender.com)**
+**[Live Demo →](https://real-time-whiteboard-dun.vercel.app/)** &nbsp;|&nbsp; **[Backend API →](https://real-time-whiteboard-o2gb.onrender.com/)**
 
 
 ---
